@@ -1,12 +1,12 @@
 # Bitcoin Arbitrage Analysis
 
-This is a Jupyter notebook machine learning using pandas to capitalizing arbitrage opportunities by carefully analyzing time series data from multiple exchanges.
+This is a python machine learning using pandas to capitalizing arbitrage opportunities by carefully analyzing time series data from multiple exchanges.
 
 ---
 
 ## Technologies
 
-This project leverages Jupyter notebook with the following package:
+This project leverages python 3.7 with the following package:
 
 * [Pandas](https://pandas.pydata.org/) - For the machine learning, data analysis, and entrypoint.
 
