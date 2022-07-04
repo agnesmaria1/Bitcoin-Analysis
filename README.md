@@ -4,7 +4,7 @@ This is a Jupyter notebook machine learning using pandas to capitalizing arbitra
 
 ---
 
-# Technologies
+## Technologies
 
 This project leverages Jupyter notebook with the following package:
 
@@ -12,7 +12,7 @@ This project leverages Jupyter notebook with the following package:
 
 ---
 
-# Installation Guide
+## Installation Guide
 
 Before running the application first install the following dependencies.
 
@@ -24,7 +24,7 @@ Before running the application first install the following dependencies.
 
 ---
 
-# Usage
+## Usage
 
 To use this machine learning application simply clone the repository and run the **cryto_arbitrage.ipynb** with:
 
@@ -34,10 +34,10 @@ crypto_arbitrage.ipynb
 
 ---
 
-# Contributors
+## Contributors
 
 This project brought to you by Agnes.
 
 ---
 
-# License
+## License
