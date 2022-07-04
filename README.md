@@ -16,7 +16,7 @@ This project leverages Jupyter notebook with the following package:
 
 Before running the application first install the following dependencies.
 
-```jupyter lab
+```python
   import pandas as pd
   from pathlib import Path
   %matplotlib inline
@@ -28,7 +28,7 @@ Before running the application first install the following dependencies.
 
 To use this machine learning application simply clone the repository and run the **cryto_arbitrage.ipynb** with:
 
-```jupyter lab
+```python
 crypto_arbitrage.ipynb
 ```
 
